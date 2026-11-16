@@ -1,0 +1,2 @@
+Manual|1|Testing if name is working|This is a test that is intended to test my functionality of using a name in my data.|a person must have entered there names in the file|the name should be written in the console.|PASS|Joseph Manizabayo
+Automated|2|Customer to use email and password in the login page.|this is a functionality to test is a customer can literally use their email and password to login from the login page.|the customer must have a registered account credentials.|the system must redirect the customer to their dashboard.|NOT_RUN|Desktop
